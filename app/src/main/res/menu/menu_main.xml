@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/paylas"
+            android:icon="@drawable/share"
+            app:showAsAction="always"
+            android:title="Paylas">
+        </item>
+
+
+    <item android:id="@+id/mesajyolla"
+        app:showAsAction="always"
+        android:title="Mesaj Yolla"
+        android:icon="@drawable/sms"
+        ></item>
+
+</menu>
